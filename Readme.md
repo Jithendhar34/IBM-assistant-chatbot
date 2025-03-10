@@ -38,10 +38,6 @@ current information.
 levels can interact with the chatbot effectively.
 
 Reference to the Bot :
-https://web
-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus
-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-9e4588e4-a91b-493c-bf06
-ec3008283804%3A%3A30b79e6c-7f05-4d45-bf6c-643410e81667&integrationID=1cedf7d3-a46b-44cc-b3d9
-57ccd88eb826&region=us-south&serviceInstanceID=9e4588e4-a91b-493c-bf06-ec3008283804
+
 
 [ProjectPresentation_The_Mavericks- FinalOne.pptx](https://github.com/user-attachments/files/16216558/ProjectPresentation_The_Mavericks-.FinalOne.pptx)
