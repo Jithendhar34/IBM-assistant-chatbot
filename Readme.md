@@ -38,6 +38,5 @@ current information.
 levels can interact with the chatbot effectively.
 
 Reference to the Bot :
+https://ibm-assistant-chatbot.vercel.app/ 
 
-
-[ProjectPresentation_The_Mavericks- FinalOne.pptx](https://github.com/user-attachments/files/16216558/ProjectPresentation_The_Mavericks-.FinalOne.pptx)
